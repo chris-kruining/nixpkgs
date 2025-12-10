@@ -4726,6 +4726,12 @@
     githubId = 538538;
     name = "Bryan Richter";
   };
+  chris-kruining = {
+    name = "Chris Kruining";
+    github = "chris-kruining";
+    githubId = 5786905;
+    matix = "@chris:kruining.eu";
+  };
   chris-martin = {
     email = "ch.martin@gmail.com";
     github = "chris-martin";
